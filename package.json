@@ -1,0 +1,19 @@
+{
+  "name": "oawty",
+  "version": "0.0.1",
+  "description": "Open Are We There Yet is the specification to share information on the progress of your projects through",
+  "main": "oawty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pieromqwerty/oawty.git"
+  },
+  "author": "Piero Maddaleni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pieromqwerty/oawty/issues"
+  },
+  "homepage": "https://github.com/pieromqwerty/oawty#readme"
+}
