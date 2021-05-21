@@ -1,6 +1,6 @@
 {
   "name": "oawty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open Are We There Yet is the specification to share information on the progress of your projects through",
   "main": "oawty.js",
   "scripts": {
