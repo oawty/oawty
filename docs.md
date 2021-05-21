@@ -17,7 +17,7 @@ Header Name|Example|Description
 
 
 ## The Main List
-Once you have your headers setup, it is reccomended to get your stie listed on [the main list](https://www.oawty.com/sites.html). To do this, create an issue on [this repository]() with a link to your site and a quick description of the goal you are trying to acheive. In the end, your site should appear in [sites.json](), on the main list, and available to the API.
+Once you have your headers setup, it is reccomended to get your stie listed on [the main list](https://www.oawty.com/sites.html). To do this, create an issue on [this repository](https://github.com/oawty/oawty) with a link to your site and a quick description of the goal you are trying to acheive. In the end, your site should appear in [sites.json](https://github.com/oawty/oawty/blob/master/sites.json), on the main list, and available to the API.
 
 ## The API
 
